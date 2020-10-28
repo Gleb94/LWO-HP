@@ -1,0 +1,14 @@
+body {background: #d6eaf8}
+
+.container .buttons {
+    margin-top: 30px;
+}
+
+.container .buttons button {
+    font-size: 15px;
+    background-color: whitesmoke;
+    border: none;
+    padding: 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
